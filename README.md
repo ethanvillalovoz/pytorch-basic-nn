@@ -1,7 +1,7 @@
 # pytorch-basic-nn
 
-![Build Status](https://img.shields.io/github/workflow/status/yourusername/pytorch-basic-nn/CI)
-![License](https://img.shields.io/github/license/yourusername/pytorch-basic-nn)
+![Build Status](https://img.shields.io/github/workflow/status/ethanvillalovoz/pytorch-basic-nn/CI)
+![License](https://img.shields.io/github/license/ethanvillalovoz/pytorch-basic-nn)
 
 ## Introduction
 This repository is both my personal learning project and a public tutorial resource. It is designed to help anyone (including myself) learn the basics of PyTorch by building and training a simple neural network from scratch.
@@ -49,3 +49,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 MIT License
+
+pip3 install torch torchvision torchaudio
+I am on mac apple silicon
