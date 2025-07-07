@@ -122,7 +122,6 @@ pytorch-basic-nn/
 │   ├── 3_Tensor_Math.ipynb
 │   ├── 4_Simple_NeuralNetwork.ipynb
 │   ├── 5_CNN.ipynb
-│   └── train.py
 ├── docs/
 │   └── Intro.png
 ├── requirements.txt
