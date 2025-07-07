@@ -26,14 +26,14 @@ Whether you are new to deep learning or want a practical tutorial, this repo wal
 
 ## Visuals
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](docs/Intro.png)
 
 ---
 
 ## Prerequisites / Requirements
 
 - Python 3.10+
-- [PyTorch](https://pytorch.org/) (see [Apple Silicon instructions](https://pytorch.org/get-started/locally/) if on Mac M1/M2)
+- [PyTorch](https://pytorch.org/) (see [Apple Silicon instructions](https://pytorch.org/get-started/locally/) if on Mac M1/M2/M3/M4)
 - NumPy
 - (Optional) Conda
 - (Optional) Jupyter Notebook
