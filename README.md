@@ -1,6 +1,7 @@
 # pytorch-basic-nn
 
-![Build Status](https://img.shields.io/github/workflow/status/ethanvillalovoz/pytorch-basic-nn/CI)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Python](https://img.shields.io/badge/python-3.10-blue)
 ![License](https://img.shields.io/github/license/ethanvillalovoz/pytorch-basic-nn)
 
 ---
