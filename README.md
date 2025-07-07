@@ -89,7 +89,7 @@ python src/train.py
 - No API keys or private tokens required
 
 ---
-
+<!-- 
 ## Automated Tests
 
 Run all tests with:
@@ -98,7 +98,7 @@ Run all tests with:
 pytest tests/
 ```
 
----
+--- -->
 
 ## Roadmap
 
@@ -123,9 +123,8 @@ pytorch-basic-nn/
 │   ├── 4_Simple_NeuralNetwork.ipynb
 │   ├── 5_CNN.ipynb
 │   └── train.py
-├── tests/
 ├── docs/
-│   └── screenshot.png
+│   └── Intro.png
 ├── requirements.txt
 ├── .gitignore
 ├── LICENSE
